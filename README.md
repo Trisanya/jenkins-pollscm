@@ -1,3 +1,3 @@
-# jenkins-pollscm
-Jenkins job automation using pollscm
-Readme
+# maven-project
+
+Simple Maven Project
